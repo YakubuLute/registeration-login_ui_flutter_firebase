@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "486626041660",
+    "firebase_url": "https://login-registration-d2949-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "login-registration-d2949",
+    "storage_bucket": "login-registration-d2949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486626041660:android:109d326b7779bd063ac839",
+        "android_client_info": {
+          "package_name": "com.ltech.login_registration_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486626041660-3lpk8lhklo246k40nhv2d2fabaaq1vch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ltech.login_registration_flutter",
+            "certificate_hash": "cd589f61a0162bb64ffba30d0b4e8674e0b3525c"
+          }
+        },
+        {
+          "client_id": "486626041660-8qkps7kr9ekhgl3blmco8d5qk27ihqvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2zTaD3rN0EB5nit_wB_iJPHOFE59lNYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486626041660-8qkps7kr9ekhgl3blmco8d5qk27ihqvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
